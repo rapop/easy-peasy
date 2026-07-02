@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /home/radu/projects/easy-peasy/.claude/quiz/quiz.py",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /home/radu/projects/easy-peasy/.claude/quiz/quiz.py --answer",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

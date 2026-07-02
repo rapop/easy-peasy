@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /home/radu/projects/easy-peasy/.claude/quiz/quiz.py --answer",
+            "timeout": 15
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /home/radu/projects/easy-peasy/.claude/peer/peer.py --inject",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
