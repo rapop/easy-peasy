@@ -209,3 +209,18 @@
 2026-07-01T05:52:00.254960+00:00 [quiz] === answer hook fired ===
 2026-07-01T06:02:40.328472+00:00 [quiz] === answer hook fired ===
 2026-07-01T06:02:59.076353+00:00 [quiz] === answer hook fired ===
+2026-07-03T05:21:46.072964+00:00 [quiz] === answer hook fired ===
+2026-07-03T05:21:50.084417+00:00 [quiz] === ondemand (/quiz) invoked ===
+2026-07-03T05:21:50.084835+00:00 [quiz] transcript: /home/radu/.claude/projects/-home-radu-projects-easy-peasy/8ca4c566-7416-443a-a3d3-c0f1ac5b1443.jsonl
+2026-07-03T05:27:52.964708+00:00 [quiz] === answer hook fired ===
+2026-07-03T05:31:12.680695+00:00 [quiz] === answer hook fired ===
+2026-07-03T05:32:09.986956+00:00 [quiz] === answer hook fired ===
+2026-07-03T05:53:46.565841+00:00 [quiz] === answer hook fired ===
+2026-07-03T05:59:47.154491+00:00 [quiz] === answer hook fired ===
+2026-07-03T06:00:08.465082+00:00 [quiz] === answer hook fired ===
+2026-07-03T06:00:28.747245+00:00 [quiz] === answer hook fired ===
+2026-07-03T06:01:22.860704+00:00 [quiz] === answer hook fired ===
+2026-07-03T06:01:26.049373+00:00 [quiz] === ondemand (/quiz) invoked ===
+2026-07-03T06:01:26.049463+00:00 [quiz] transcript: /home/radu/.claude/projects/-home-radu-projects-easy-peasy/f4a08821-220f-4bb0-b331-66d1dfb05e4f.jsonl
+2026-07-03T06:01:28.444135+00:00 [quiz] ondemand question saved; printing
+2026-07-03T06:01:37.435424+00:00 [quiz] === answer hook fired ===
